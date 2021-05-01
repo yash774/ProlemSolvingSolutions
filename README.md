@@ -1,2 +1,1 @@
-# Java Hackerrank Solutions
-Solutions for Practice problems of Java on Hackerrank platform
+Solutions for Practice problems on leetcode and hackerrank.
